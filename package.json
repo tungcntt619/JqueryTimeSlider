@@ -1,0 +1,22 @@
+{
+  "name": "TimeSlider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "v",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "author": {
+    "name": "tungcntt619",
+    "email": "tungcntt619@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-v-vishnevskiy/timeslider.git"
+  },
+  "keywords": [],
+  "author": "tungcntt619 <tungcntt619@gmail.com>",
+  "license": "MIT"
